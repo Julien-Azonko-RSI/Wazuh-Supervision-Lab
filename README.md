@@ -48,7 +48,7 @@ wazuh-supervision-lab/
 ## Documentation
 
 - [Installation Wazuh via Docker](https://documentation.wazuh.com/current/deployment-options/docker/wazuh-container.html)
-- [Installation de l'agent Wazuh](docs/installation-wazuh-agent.md)
+- [Installation de l'agent Wazuh](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-linux.html)
 - [Scénarios de test](tests/test-scenarios.md)
 
 ---
