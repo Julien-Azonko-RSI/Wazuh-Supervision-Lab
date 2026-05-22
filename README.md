@@ -40,7 +40,7 @@ La règle 100001 détecte un échec de connexion SSH depuis une IP précise. La 
 </rule>
 ```
 
-![Règles SSH dans local_rules.xml](screenshots/rules/Capture d'écran 2026-05-08 070231.png)
+
 
 ### Règle création d'utilisateur — fichier `Détection_création_d'utilisateur`
 
@@ -58,7 +58,6 @@ La règle 100004 se déclenche dès qu'un nouvel utilisateur est créé sur le s
 </rule>
 ```
 
-![Règle création utilisateur](screenshots/rules/02-regle-creation-utilisateur.png)
 
 Après chaque modification, cliquer sur **Save** et confirmer le redémarrage du Manager.
 
