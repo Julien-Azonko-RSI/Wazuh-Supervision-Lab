@@ -1,1 +1,1 @@
-Captures des alertes dans le Dashboard Wazuh
+Captures des tests dans le Dashboard Wazuh
