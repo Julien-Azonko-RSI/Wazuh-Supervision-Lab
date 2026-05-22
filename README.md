@@ -16,26 +16,6 @@ Projet de supervision sécurité basé sur **Wazuh**, déployé via Docker. Ce l
 
 ---
 
-## Contenu du dépôt
-
-```
-wazuh-supervision-lab/
-├── README.md
-├── docs/
-│   ├── installation-wazuh-docker.md     # Installation du serveur Wazuh via Docker
-│   └── installation-wazuh-agent.md      # Installation de l'agent Wazuh
-├── rules/
-│   └── custom_rules.xml                 # Règles personnalisées (force brute SSH, création d'utilisateur)
-├── screenshots/
-│   ├── rules/                           # Captures des règles dans le dashboard
-│   ├── alerts/                          # Captures des alertes generées
-│   └── tests/                           # Captures des scénarios de test
-└── tests/
-    └── test-scenarios.md                # Scénarios de test documentés
-```
-
----
-
 ## Règles personnalisées
 
 | ID Règle | Description                        | Niveau |
