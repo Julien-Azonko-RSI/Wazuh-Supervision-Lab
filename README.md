@@ -71,7 +71,6 @@ Menu → Security Events
 
 Filtrer par `rule.id : 100002` pour la force brute, ou `rule.id : 100004` pour la création d'utilisateur.
 
-![Alertes Security Events](screenshots/alerts/01-alertes-security-events.png)
 
 ---
 
