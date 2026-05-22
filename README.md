@@ -40,7 +40,7 @@ La règle 100001 détecte un échec de connexion SSH depuis une IP précise. La 
 </rule>
 ```
 
-![Règles SSH dans local_rules.xml](screenshots/rules/01-local-rules-ssh.png)
+![Règles SSH dans local_rules.xml](screenshots/rules/Capture d'écran 2026-05-08 070231.png)
 
 ### Règle création d'utilisateur — fichier `Détection_création_d'utilisateur`
 
